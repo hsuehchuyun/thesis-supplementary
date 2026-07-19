@@ -1,0 +1,5 @@
+"Metric","OLS","MM","Lasso","Corrected_Lasso","CoCoLasso"
+"L2 norm",86.9127,3160.6171,73.8845,65.8877,49.8042
+"Average number of non-zeros estimated",59.999,60,36.792,13.613,15.2
+"Average number of true non-zeros estimated",8,8,7.292,6.211,6.482
+"Average number of false non-zeros estimated",51.999,52,29.5,7.402,8.718
