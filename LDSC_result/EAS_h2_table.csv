@@ -1,51 +1,51 @@
-Code,h2,h2_SE
-Inflam_lympasia_minC20,0.0862,0.0082
-Inflam_neutasia_minC20,0.1136,0.0125
-TRD_AgeSmkEas_greS22,0.0276,0.0078
-TRD_CigDayEas_greS22,0.0538,0.0069
-TRD_DrnkWkEas_greS22,0.0874,0.051
-TRD_EA_twb,0.0925,0.0067
-TRD_SmkCesEas_gre22,0.0244,0.0052
-TRD_SmkInitEas_greS22,0.0526,0.0034
-TRD_alb_twbbbj,0.0837,0.0067
-TRD_alt_twbbbj,0.0652,0.0064
-TRD_ast_twbbbj,0.0693,0.0073
-TRD_bfr_twb,0.1712,0.0094
-TRD_bmi_twbbbj,0.1795,0.0066
-TRD_bun_twbbbj,0.0821,0.0069
-TRD_cadasn_satK20,0.0757,0.0083
-TRD_cardstrokeeas_aniM22,0.0017,0.0019
-TRD_cr_twbbbj,0.126,0.0079
-TRD_crpasn_saoS21,0.0228,0.0084
-TRD_dbp_twbbbj,0.0796,0.0046
-TRD_fev_twb,0.0527,0.0087
-TRD_fg_twbbbj,0.0698,0.0069
-TRD_fvc_twb,0.1598,0.0118
-TRD_ggt_twbbbj,0.1332,0.0211
-TRD_hb_twbbbj,0.0761,0.0058
-TRD_hba1c_twbbbj,0.1209,0.0154
-TRD_hc_twb,0.2058,0.0107
-TRD_hct_twbbbj,0.0758,0.0053
-TRD_hdl_twbbbj,0.2,0.0233
-TRD_hr_twb,0.1107,0.0135
-TRD_ht_twbasn,0.2664,0.0128
-TRD_iscstrokeeas_aniM22,0.0146,0.0024
-TRD_ldl_twbbbj,0.1001,0.0118
-TRD_lvesstrokeeas_aniM22,0.0037,0.002
-TRD_malb_twb,0.064,0.0063
-TRD_mddasi_olgG21,0.0092,0.0026
-TRD_plt_twbbbj,0.1847,0.0154
-TRD_rbc_twbbbj,0.1286,0.0105
-TRD_sbp_twbbbj,0.0913,0.0052
-TRD_sczasn_maxL19,0.2419,0.0132
-TRD_strokeeas_aniM22,0.0151,0.0022
-TRD_svesstrokeeas_aniM22,0.0053,0.0021
-TRD_t2d_twbasn,0.0719,0.0041
-TRD_tbil_twbbbj,0.0664,0.0161
-TRD_tc_twbbbj,0.0974,0.0098
-TRD_tg_twbbbj,0.1384,0.0246
-TRD_ua_twbbbj,0.1367,0.0246
-TRD_wbc_twbbbj,0.1167,0.0087
-TRD_wc_twb,0.158,0.009
-TRD_whr_twb,0.1142,0.0081
-TRD_wt_twbbbj,0.2086,0.007
+Code,h2,h2_SE,Phenotype,N,M(SNPs)
+Inflam_lympasia_minC20,0.0862,0.0082,Lymphocyte count,89266,1035634
+Inflam_neutasia_minC20,0.1136,0.0125,Neutrophil count,78744,1035687
+TRD_AgeSmkEas_greS22,0.0276,0.0078,Age of initiation (regular),59148,927056
+TRD_CigDayEas_greS22,0.0538,0.0069,Cigarettes per day,104664,932934
+TRD_DrnkWkEas_greS22,0.0874,0.051,Drinks per week,90852,929839
+TRD_EA_twb,0.0925,0.0067,Education,104722,972315
+TRD_SmkCesEas_gre22,0.0244,0.0052,Smoking cessation,106992,932935
+TRD_SmkInitEas_greS22,0.0526,0.0034,Smoking initiation,217901,932648
+TRD_alb_twbbbj,0.0837,0.0067,Albumin,213154,920127
+TRD_alt_twbbbj,0.0652,0.0064,Alanine aminotransferase,243160,919758
+TRD_ast_twbbbj,0.0693,0.0073,Aspartate aminotransferase,242683,919758
+TRD_bfr_twb,0.1712,0.0094,Body fat rate,92615,989363
+TRD_bmi_twbbbj,0.1795,0.0066,Body mass index,256450,919599
+TRD_bun_twbbbj,0.0821,0.0069,Blood urea nitrogen ,241382,919771
+TRD_cadasn_satK20,0.0757,0.0083,Coronary artery disease,168228,995396
+TRD_cardstrokeeas_aniM22,0.0017,0.0019,Cardioembolic stroke,238168,945357
+TRD_cr_twbbbj,0.126,0.0079,Creatinine,242881,919755
+TRD_crpasn_saoS21,0.0228,0.0084,C-reactive protein,83025,941968
+TRD_dbp_twbbbj,0.0796,0.0046,Diastolic blood pressure,238130,919818
+TRD_fev_twb,0.0527,0.0087,Forced expiratory flow,62901,989382
+TRD_fg_twbbbj,0.0698,0.0069,Fasting glucose,225951,919978
+TRD_fvc_twb,0.1598,0.0118,Forced vital capacity,62901,989396
+TRD_ggt_twbbbj,0.1332,0.0211,Gamma-glutamyltransferase,226086,919967
+TRD_hb_twbbbj,0.0761,0.0058,Hemoglobin,245062,919737
+TRD_hba1c_twbbbj,0.1209,0.0154,Glycated haemoglobin,163836,920809
+TRD_hc_twb,0.2058,0.0107,Hip circumference,92615,989366
+TRD_hct_twbbbj,0.0758,0.0053,Hematocrit,245630,919730
+TRD_hdl_twbbbj,0.2,0.0233,HDL cholesterol,167585,920720
+TRD_hr_twb,0.1107,0.0135,Heart rate,92615,989365
+TRD_ht_twbasn,0.2664,0.0128,Height,456471,921516
+TRD_iscstrokeeas_aniM22,0.0146,0.0024,Ischemic stroke,256274,1012169
+TRD_ldl_twbbbj,0.1001,0.0118,LDL cholesterol,165481,920775
+TRD_lvesstrokeeas_aniM22,0.0037,0.002,Large artery stroke,238977,999467
+TRD_malb_twb,0.064,0.0063,Microalbumin in urine ,92615,989364
+TRD_mddasi_olgG21,0.0092,0.0026,Major depressive disorder,169805,1061544
+TRD_plt_twbbbj,0.1847,0.0154,Platelet,241238,919778
+TRD_rbc_twbbbj,0.1286,0.0105,Red blood cell,246127,919722
+TRD_sbp_twbbbj,0.0913,0.0052,Systolic blood pressure,238120,919816
+TRD_sczasn_maxL19,0.2419,0.0132,Schizophrenia,58140,996298
+TRD_strokeeas_aniM22,0.0151,0.0022,Stroke,264655,1022370
+TRD_svesstrokeeas_aniM22,0.0053,0.0021,Small vessel stroke,242774,1006731
+TRD_t2d_twbasn,0.0719,0.0041,Type 2 diabetes,538294,1039131
+TRD_tbil_twbbbj,0.0664,0.0161,Total bilirubin,216956,919977
+TRD_tc_twbbbj,0.0974,0.0098,Total cholesterol,228423,919939
+TRD_tg_twbbbj,0.1384,0.0246,Triglyceride,204282,920214
+TRD_ua_twbbbj,0.1367,0.0246,Uric Acid ,222020,919986
+TRD_wbc_twbbbj,0.1167,0.0087,White blood cell,246970,919722
+TRD_wc_twb,0.158,0.009,Waist circumference,92615,989364
+TRD_whr_twb,0.1142,0.0081,Waist-to-hip ratio,92615,989364
+TRD_wt_twbbbj,0.2086,0.007,Body weight,258034,919575

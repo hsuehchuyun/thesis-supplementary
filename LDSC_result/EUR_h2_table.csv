@@ -1,51 +1,51 @@
-Code,h2,h2_SE
-37_bmi_sarP19,0.1877,0.0051
-38_whr_sarP19,0.1321,0.0042
-40_t2d_mahA18,0.0497,0.0022
-7_sczeur_vasT22,0.3589,0.0117
-8_mdd_howD19,0.0599,0.0024
-Inflam_lymp_minC20,0.1901,0.0127
-Inflam_neut_minC20,0.1495,0.009
-TRD_AgeSmkEur_greS22,0.0481,0.0028
-TRD_CAD_ukbcard,0.0356,0.0022
-TRD_CigDayEur_greS22,0.0801,0.0088
-TRD_DrnkWkEur_greS22,0.053,0.0023
-TRD_EA_jamL18,0.1066,0.0026
-TRD_HrtRate_zhaZ19,0.1468,0.0092
-TRD_HtEur_loiY22,0.3713,0.0166
-TRD_SmkCesEur_gre22,0.0496,0.0025
-TRD_SmkInitEur_greS22,0.0834,0.0025
-TRD_alb_ukbv3,0.1144,0.0067
-TRD_alt_ukbv3,0.1123,0.0071
-TRD_ast_ukbv3,0.1209,0.0099
-TRD_bfr_ukbv3,0.2089,0.0059
-TRD_bun_ukbv3,0.1028,0.006
-TRD_cardstrokeeur_aniM22,0.0031,0.0005
-TRD_cr_ukbv3,0.1758,0.0091
-TRD_crp_sarS22,0.1267,0.011
-TRD_dbp_ukbv3,0.1289,0.005
-TRD_fev_ukbv3,0.175,0.0063
-TRD_fg_ukbv3,0.0703,0.0082
-TRD_fvc_ukbv3,0.1903,0.0073
-TRD_ggt_ukbv3,0.1733,0.0131
-TRD_hb_ukbv3,0.1384,0.009
-TRD_hba1c_ukbv3,0.1695,0.0114
-TRD_hc_ukbv3,0.1985,0.006
-TRD_hct_ukbv3,0.1308,0.0084
-TRD_hdl_ukbv3,0.2125,0.0225
-TRD_iscstrokeeur_aniM22,0.0061,0.0005
-TRD_ldl_ukbv3,0.0895,0.0109
-TRD_lvesstrokeeur_aniM22,0.0011,0.0004
-TRD_malb_ukbv3,0.0319,0.0056
-TRD_plt_ukbv3,0.235,0.0188
-TRD_rbc_ukbv3,0.1826,0.0129
-TRD_sbp_ukbv3,0.1399,0.0051
-TRD_strokeeur_aniM22,0.006,0.0005
-TRD_svesstrokeeur_aniM22,0.0014,0.0004
-TRD_tbil_ukbv3,0.102,0.0267
-TRD_tc_ukbv3,0.1035,0.0108
-TRD_tg_ukbv3,0.1655,0.0167
-TRD_ua_ukbv3,0.1579,0.0163
-TRD_wbc_ukbv3,0.1601,0.0092
-TRD_wc_ukbv3,0.1889,0.0054
-TRD_wt_ukbv3,0.2384,0.0068
+Code,h2,h2_SE,Phenotype,N,M(SNPs)
+37_bmi_sarP19,0.1877,0.0051,Body mass index,806834,1180977
+38_whr_sarP19,0.1321,0.0042,Waist-to-hip ratio,697734,1180980
+40_t2d_mahA18,0.0497,0.0022,Type 2 diabetes,898130,1181180
+7_sczeur_vasT22,0.3589,0.0117,Schizophrenia,130644,1173424
+8_mdd_howD19,0.0599,0.0024,Major depressive disorder,500199,1156949
+Inflam_lymp_minC20,0.1901,0.0127,Lymphocyte count,524923,1154849
+Inflam_neut_minC20,0.1495,0.009,Neutrophil count,519288,1154855
+TRD_AgeSmkEur_greS22,0.0481,0.0028,Age of initiation (regular),323386,1053865
+TRD_CAD_ukbcard,0.0356,0.0022,Coronary artery disease,640653,1161353
+TRD_CigDayEur_greS22,0.0801,0.0088,Cigarettes per day,326497,1053944
+TRD_DrnkWkEur_greS22,0.053,0.0023,Drinks per week,666978,1052658
+TRD_EA_jamL18,0.1066,0.0026,Education,766345,1167771
+TRD_HrtRate_zhaZ19,0.1468,0.0092,Heart rate,458969,725048
+TRD_HtEur_loiY22,0.3713,0.0166,Height,1597374,1043899
+TRD_SmkCesEur_gre22,0.0496,0.0025,Smoking cessation,388313,1053927
+TRD_SmkInitEur_greS22,0.0834,0.0025,Smoking initiation,805431,1053145
+TRD_alb_ukbv3,0.1144,0.0067,Albumin,315268,1025063
+TRD_alt_ukbv3,0.1123,0.0071,Alanine aminotransferase,344136,1025053
+TRD_ast_ukbv3,0.1209,0.0099,Aspartate aminotransferase,342990,1025050
+TRD_bfr_ukbv3,0.2089,0.0059,Body fat rate,354628,1025060
+TRD_bun_ukbv3,0.1028,0.006,Blood urea nitrogen ,344052,1025055
+TRD_cardstrokeeur_aniM22,0.0031,0.0005,Cardioembolic stroke,1245612,1136561
+TRD_cr_ukbv3,0.1758,0.0091,Creatinine,344104,1025054
+TRD_crp_sarS22,0.1267,0.011,C-reactive protein,575531,1181531
+TRD_dbp_ukbv3,0.1289,0.005,Diastolic blood pressure,340162,1025088
+TRD_fev_ukbv3,0.175,0.0063,Forced expiratory flow,329404,1025045
+TRD_fg_ukbv3,0.0703,0.0082,Fasting glucose,314916,1025045
+TRD_fvc_ukbv3,0.1903,0.0073,Forced vital capacity,329404,1025045
+TRD_ggt_ukbv3,0.1733,0.0131,Gamma-glutamyltransferase,344104,1025034
+TRD_hb_ukbv3,0.1384,0.009,Hemoglobin,350474,1025062
+TRD_hba1c_ukbv3,0.1695,0.0114,Glycated haemoglobin,344182,1025038
+TRD_hc_ukbv3,0.1985,0.006,Hip circumference,360521,1025057
+TRD_hct_ukbv3,0.1308,0.0084,Hematocrit,350475,1025063
+TRD_hdl_ukbv3,0.2125,0.0225,HDL cholesterol,315133,1025029
+TRD_iscstrokeeur_aniM22,0.0061,0.0005,Ischemic stroke,1296908,1153574
+TRD_ldl_ukbv3,0.0895,0.0109,LDL cholesterol,343621,1025052
+TRD_lvesstrokeeur_aniM22,0.0011,0.0004,Large artery stroke,1241207,1086510
+TRD_malb_ukbv3,0.0319,0.0056,Microalbumin in urine ,108706,1025063
+TRD_plt_ukbv3,0.235,0.0188,Platelet,350474,1025060
+TRD_rbc_ukbv3,0.1826,0.0129,Red blood cell,350475,1025053
+TRD_sbp_ukbv3,0.1399,0.0051,Systolic blood pressure,340159,1025088
+TRD_strokeeur_aniM22,0.006,0.0005,Stroke,1308460,1154055
+TRD_svesstrokeeur_aniM22,0.0014,0.0004,Small vessel stroke,1241619,1099420
+TRD_tbil_ukbv3,0.102,0.0267,Total bilirubin,342829,1024877
+TRD_tc_ukbv3,0.1035,0.0108,Total cholesterol,344278,1025056
+TRD_tg_ukbv3,0.1655,0.0167,Triglyceride,343992,1025016
+TRD_ua_ukbv3,0.1579,0.0163,Uric Acid ,343836,1024822
+TRD_wbc_ukbv3,0.1601,0.0092,White blood cell,350470,1025063
+TRD_wc_ukbv3,0.1889,0.0054,Waist circumference,360564,1025058
+TRD_wt_ukbv3,0.2384,0.0068,Body weight,360116,1025060
