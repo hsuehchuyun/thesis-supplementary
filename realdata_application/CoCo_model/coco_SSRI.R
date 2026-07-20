@@ -52,8 +52,6 @@ print_text <- capture.output(print(fit_cv_corr))
 target_line <- grep("Regularization parameter at minimum loss is", print_text, value = TRUE)
 best_radius_corr <- as.numeric(regmatches(target_line, regexpr("[0-9]+\\.[0-9]+", target_line)))
 
-# best_radius_corr <- 0.5444644 #EUR
-# best_radius_corr <- 0.5305215 #EAS
 fit_corr <- corrected_lasso(W = D_std, y = as.numeric(y_std), sigmaUU = correction_matrix_std, family = "gaussian", radii = best_radius_corr)
 fit_corr$betaCorr
 
