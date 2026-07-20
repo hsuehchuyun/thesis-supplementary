@@ -96,9 +96,6 @@ for (b in 1:B) {
   lasso_est[b, ] <- beta_hat
   
   # correctlasso
-  # fit_corr <- corrected_lasso(D_obs, y, sigmaUU = correction_matrix, family = "gaussian")
-  # # choose no. 6 radius
-  # my_radius <- fit_corr$radii[6]
 
   fit_cv_corr <- cv_corrected_lasso(D_obs, y, sigmaUU = correction_matrix, family = "gaussian",n_folds = 5)
   print(fit_cv_corr)
