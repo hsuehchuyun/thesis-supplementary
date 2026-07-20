@@ -71,11 +71,6 @@ print("Best Hyperparameters:", svm_cv.best_params_)
 print("Best Score:", -svm_cv.best_score_)
 svmScore= -svm_cv.best_score_
 
-# #SVC yield inconsistent prob prediction so use calibrate
-# from sklearn.calibration import CalibratedClassifierCV
-# svm_cv=CalibratedClassifierCV(svm_cv.best_estimator_)
-# svm_cv.fit(X,y)
-
 
 #xgboost https://blog.csdn.net/wzmsltw/article/details/50994481
 from xgboost import XGBRegressor
